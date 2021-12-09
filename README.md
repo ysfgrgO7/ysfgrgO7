@@ -3,19 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20Developer;Self-Taught%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC4XCFTMdAcXpkmqcGiVNXTQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a>
-  <a href="https://twitter.com/komil_developer">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/komil_developer?color=1DA1F2&labelColor=179cf0&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/komildeveloper">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/komildeveloper?color=282e33&labelColor=1B1F23&style=for-the-badge&logo=github&label=Follow"/></a>
-</p>
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -56,11 +43,7 @@
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-56a241?logo=neovim&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019833?logo=vim&logoColor=white"></a>
 </p>
 
@@ -68,6 +51,6 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div style="display: flex; justify-content: center; align-items: center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Komil Sobitov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=komildeveloper&show_icons=true&count_private=true&theme=gotham" alt="komildeveloper" height="192px"/></a>
+    <a href="https://github.com/ysfgrgO7/github-readme-stats"><img alt="Ysf's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=komildeveloper&show_icons=true&count_private=true&theme=gotham" alt="komildeveloper" height="192px"/></a>
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Komil Developer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komildeveloper&langs_count=8&layout=compact&theme=gotham&border=true" height="192px"/></a>
 </div>
